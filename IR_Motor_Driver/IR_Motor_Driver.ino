@@ -1,3 +1,5 @@
+//Robo Car Example
+
 #include "IRremote.h"
 int receiver = 11; // pin 1 of IR receiver to Arduino digital pin 11
 IRrecv irrecv(receiver);           // create instance of 'irrecv'

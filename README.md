@@ -1,4 +1,4 @@
-# ProgrammingWorkshop
-Programming Workshop for refugees minors
+# Programming Workshop
 
-This repo contains code used in the ‘Science and Technology’ class for refugee minors at FAROS NGO (Greece)
+This repository contains code used in the ‘Science and Technology’ class at FAROS NGO (Greece)
+Every Tuesday 14:00 - 17:00
